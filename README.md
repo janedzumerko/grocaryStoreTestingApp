@@ -1,1 +1,1 @@
-# grocaryStoreTestingApp
+# groceryStoreTestingApp
